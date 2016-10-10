@@ -49,16 +49,16 @@ CppDepend manage complex code base and achieve high Code Quality. With CppDepend
 -----------
  - https://github.com/danmar/cppcheck
  
- <a name="a7"></a>OcLint
+<a name="a7"></a>OcLint
 -----------
  - https://github.com/oclint/oclint 
 
-  <a name="a8"></a>Memory Leak Tools
+<a name="a8"></a>Memory Leak Tools
 -----------
  - Intel® Inspector (https://software.intel.com/en-us/intel-inspector-xe)
  - Valgrind (http://valgrind.org/)
 
-  <a name="a9"></a>UML Tools
+<a name="a9"></a>UML Tools
 -----------
  - Enterprise Architect (reverse engineering function) (http://www.sparxsystems.com.au/)
  
