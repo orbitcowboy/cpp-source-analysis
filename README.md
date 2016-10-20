@@ -65,6 +65,7 @@ CppDepend manage complex code base and achieve high Code Quality. With CppDepend
 -----------
  - Intel® Inspector (https://software.intel.com/en-us/intel-inspector-xe)
  - Valgrind (http://valgrind.org/)
+ - Dr. Memory
 
 <a name="a9"></a>UML Tools
 -----------
