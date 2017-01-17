@@ -4,6 +4,7 @@ tools to analyze c/c++ source code
 [C++ Core Checker](#a1)<br />
 [Oovaide](#ab)<br>
 [CppDepend](#a2)<br />
+[PVS-Studio](#ac)<br />
 [SciTools Understand](#a3)<br />
 [Visual Lint](#a4)<br />
 [Refactoring](#a5)<br />
@@ -30,6 +31,12 @@ Tool to enforce the C++ Core Guidelines
 An object oriented analysis and integrated development platform that automatically generates build, class, sequence, zone, portion, and component diagrams for C++, Objective C, and Java languages. Also includes test coverage, complexity and analysis statistics.
 
  - https://github.com/animatedb/oovaide
+
+<a name="ac"></a>PVS-Studio
+--------------------------------------------------------
+PVS-Studio is a tool for bug detection in the source code of programs, written in C, C++ and C#. It works in Windows and Linux environment.
+
+- http://www.viva64.com/
 
 <a name="a2"></a>CppDepend :: C/C++ Static Analysis and Code Quality tool
 --------------------------------------------------------
